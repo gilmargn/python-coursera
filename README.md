@@ -1,1 +1,1 @@
-# Algoritmos e testes no curso Introduação a Computação com Python
+# Algoritmos e testes do curso Introdução a Computação com Python
